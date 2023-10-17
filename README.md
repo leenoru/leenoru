@@ -1,7 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=0:40AEF0,100:0099E5&height=200&text=Welcome+leenoru's+GitHub👋&fontColor=ffffff&fontSize=30&fontAlignY=35)
-## Hi there
-반갑습니다! 마케팅 기획 출신 개발자 leenoru입니다👨‍💻<br><br>
+## 반갑습니다! 마기발자이너 leenoru입니다👨‍💻
+마기발자 leenoru는<br><br>
 사용자 중심의 접근 방식으로 기획 단계부터 개발과정을 진행합니다.<br>
+기획 및 마케팅의 경험을 바탕으로 데이터의 중요성을 
 다양한 경험을 중시하는 가치에 따라 여러 프로젝트에 도전하고 있습니다.<br>
 GitHub을 통해 이러한 가치를 반영한 다양한 프로젝트를 공유하고자 합니다.<br>
 앞으로 쌓아갈 프로젝트를 확인하고 함께 성장하는 기회가 되길 기대합니다! 🌟<br>
