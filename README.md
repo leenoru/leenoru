@@ -10,6 +10,7 @@ GitHub을 통해 이러한 가치를 반영한 다양한 프로젝트를 공유�
 [![min0's GitHub stats](https://github-readme-stats.vercel.app/api?username=leenoru&show_icons=true&theme=테마a&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leenoru&hide_progress=true)
 
+<img src="https://ghchart.rshah.org/leenoru" />
 
 🦾 Stacks
 <div align="left">
